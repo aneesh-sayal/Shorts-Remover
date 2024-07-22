@@ -24,3 +24,7 @@ To install the extension manually, follow these steps:
 ## Usage
 
 After installation, the extension will automatically remove any Shorts from your YouTube interface. No further action is required.
+
+## Next Updates (Soon)
+
+Add a youtube video downloader feature.
